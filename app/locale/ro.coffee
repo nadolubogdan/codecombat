@@ -1420,7 +1420,7 @@ module.exports = nativeDescription: "limba română", englishDescription: "Roman
     filter_further: ", dar poți să filtrezi mai departe:"
     filter_visa: "Viză"
     filter_visa_yes: "US Autorizat"
-    filter_visa_no: "Neauthorized"
+    filter_visa_no: "Neautorizat"
     filter_education_top: "Top Școală"
     filter_education_other: "Altele"
     filter_role_web_developer: "Web Developer"
